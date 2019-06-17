@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sgao\.android\build-cache\8e4332db157b94c74397f378b383506c615e5204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\WorkPlace\DatamaxSDK-master\app\build\intermediates\pre-dexed\debug\classes_27c362935544cb4016198e4af3b8f0a713795aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sgao\.android\build-cache\fb8e9af9caf94e256fd8644b7e68ecb771cdc7d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\WorkPlace\DatamaxSDK-master\app\build\intermediates\pre-dexed\debug\classes_f4d14ba49489edf801bfb3c84bd86a263e19fd55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sgao\.android\build-cache\d9d292f9d5584cc680314cb0b1792f5811f1dba1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\WorkPlace\DatamaxSDK-master\app\build\intermediates\pre-dexed\debug\classes_94fc9b96205be73685d599ea60dc2d69cd7e49af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkPlace\DatamaxSDK-master\app\libs\do_androidsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0f3d2a4e8618ef9901978075f915084183da5ca">
+        <dex dex="E:\WorkPlace\DatamaxSDK-master\app\build\intermediates\pre-dexed\debug\do_androidsdk_8ddf1e7ddfaa4b77c667766eed58b15323e5afca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WMADURO\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\WorkPlace\DatamaxSDK-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_899d32532a81e669162672113e44de85af818139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sgao\.android\build-cache\aa1ee98af2ec7f5f591f5a81b1880da596c16158\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\WorkPlace\DatamaxSDK-master\app\build\intermediates\pre-dexed\debug\classes_c82f7d1036a0d3610f9c341869207ffbb9bcf561.jar" />
+    </item>
+
+</items>

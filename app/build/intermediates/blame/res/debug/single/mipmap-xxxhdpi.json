@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\WorkPlace\\DatamaxSDK-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\WorkPlace\\DatamaxSDK-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\WorkPlace\\DatamaxSDK-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "E:\\WorkPlace\\DatamaxSDK-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
